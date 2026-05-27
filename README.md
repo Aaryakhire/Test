@@ -8,6 +8,12 @@ The project uses data collection, cleaning, analysis, visualization, and reporti
 
 ---
 
+## Dashboard
+
+<img width="1725" height="839" alt="Screenshot 2026-05-27 144252" src="https://github.com/user-attachments/assets/b6cfdb25-4e81-4552-88d8-dffdc7080970" />
+
+---
+
 ## Tools and Technologies Used
 
 - MS SQL
