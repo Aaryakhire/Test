@@ -31,7 +31,11 @@ The project uses data collection, cleaning, analysis, visualization, and reporti
 ---
 
 ## Key Insights
-
+- Major with highest number of students:
+  - STEM: 15059
+- Average Skill Retention Score: 75.798124994545
+- Most Common AI Purpose:
+  - Debugging/Troubleshooting: 12295 students
 - Analyzed the average anxiety level of students during exams.
 - Calculated Paid Subscribers Percentage:
   - Yes: 57.692%
