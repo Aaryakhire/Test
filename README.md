@@ -22,7 +22,7 @@ The project uses data collection, cleaning, analysis, visualization, and reporti
 - Seaborn
 - Matplotlib
 - Power BI
-
+- Tablues
 ---
 
 ## Key Tasks Performed
